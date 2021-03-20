@@ -1,9 +1,9 @@
 # Automatic plant watering system
 <hr>
-<b> Overview</b><br>
+## Overview
 To create a self-watering plant system using a soil sensor, water pump and nodemcu 8266 and a relay module.
 <hr>
-# Prerequisites
+## Prerequisites
 <ol>
 <li>C++</li>
 <li>Arduino IDE</li>

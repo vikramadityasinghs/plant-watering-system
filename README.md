@@ -1,13 +1,19 @@
-# Automatic plant watering system
-<hr>
+# RFID Attendance System
+
 ## Overview
-To create a self-watering plant system using a soil sensor, water pump and nodemcu 8266 and a relay module.
-<hr>
+An attendance system used to keep a check on the regularity of the students using RFID Sensor.
+
 ## Prerequisites
-<ol>
-<li>C++</li>
-<li>Arduino IDE</li>
-<li>Adafruit.io</li>
-<li>ESP8266WiFi library</li>
-<li>Adafruit_MQTT_Client library</li>
-  </ol>
+* C++
+* Arduino IDE
+* Adafruit.io
+* SPI library
+* MFRC522 library
+* ESP8266WiFi library
+* Adafruit_MQTT_Client library
+
+
+## Author
+* Rishikesh Sivakumar
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Rishikesh Sivakumar](https://www.linkedin.com/in/rishikesh-sivakumar-1a166a18b/)

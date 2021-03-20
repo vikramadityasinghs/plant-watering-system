@@ -14,5 +14,4 @@ To create a self-watering plant system using a soil sensor, water pump and nodem
 ## Author
 * Vikramaditya Singh Saxena
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Vikramaditya]
-(https://www.linkedin.com/in/vikramadityasinghs/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Vikramaditya](https://www.linkedin.com/in/vikramadityasinghs/)

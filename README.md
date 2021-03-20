@@ -1,4 +1,5 @@
-# RFID Attendance System
+# Plant watering system
+
 
 ## Overview
 To create a self-watering plant system using a soil sensor, water pump and nodemcu 8266 and relay module.
